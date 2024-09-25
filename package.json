@@ -1,0 +1,24 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "KarenCamp",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenCamp/test.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KarenCamp/test/issues"
+  },
+  "homepage": "https://github.com/KarenCamp/test#readme",
+  "description": ""
+}
